@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sesión de TikTok: son credenciales, nunca se versionan
+cookies.json
+cookies.txt
+.env
+
+# Material de trabajo
+datos/
+salida/
+*.mp4
+*.mp3

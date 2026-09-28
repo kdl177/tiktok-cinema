@@ -1,0 +1,14 @@
+# Descarga de clips desde YouTube
+yt-dlp>=2024.1.0
+
+# Montaje del vídeo vertical
+moviepy>=1.0.3
+imageio-ffmpeg>=0.4.9
+numpy>=1.26
+pillow>=10.0
+
+# Publicación en TikTok con cookies de sesión
+tiktok-uploader>=1.1.0
+
+# Registro de publicaciones
+psycopg2-binary>=2.9
