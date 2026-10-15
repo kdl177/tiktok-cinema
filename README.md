@@ -140,3 +140,7 @@ Windows, que es donde se ha usado en producción; en Linux y macOS debería
 funcionar pero no está probado a fondo.
 
 Si te atascas, escribe a hidra.lucas.g45@gmail.com.
+
+## Licencia
+
+MIT. Puedes usar, copiar, modificar y distribuir el código libremente, también con fines comerciales, manteniendo el aviso de autoría. Ver [LICENSE](LICENSE).
